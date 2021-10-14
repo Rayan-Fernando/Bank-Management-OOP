@@ -31,12 +31,12 @@
                         <li class="nav-item">
                             <a href="dashboard.jsp" class="nav-link align-middle px-0 ">
                                 <i class="fs-4 bi-house"><img src="assets/dashboard.png" width="50px" alt=""></i> <span
-                                    class="ms-1 d-none d-sm-inline " style="color: white;">Dashboard</span>
+                                    class="ms-1 d-none d-sm-inline " style="color: red;">Dashboard</span>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a href="transactionWindow.jsp" class="nav-link align-middle px-0 ">
-                                <i class="fs-4 bi-house"><img src="assets/trans.png" width="50px" alt=""></i>
+                                <i class="fs-4 bi-house"><img src="assets/trans.png" width="48px" alt=""></i>
                                 <span class="ms-1 d-none d-sm-inline aaactive" style="color: white;">Transaction
                                     window
                                 </span>
@@ -67,7 +67,8 @@
 
         </div>
     </div>
-    <div style="min-height:92vh;" class="d-block">
+    <!--changed margins and colors-->
+    <div style="min-height:96vh;" class="d-block">
         <div style="position: relative;margin-right: 5px;margin-left: 18%; ">
             <h2 class="d-flex mx-auto">Account Info Window</h2>
             <!--  -->
