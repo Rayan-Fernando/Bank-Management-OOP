@@ -80,9 +80,10 @@
                                 class="textnorm">135012369</span></span></div>
                 </div>
                 <div class="row mb-3">
-                    <div class="col-sm-4"><span class="h4">First Name: <span class="textnorm">Dumidu Kasun</span></span>
+                    <div class="col-sm-4"><span class="h4">First Name: <span class="textnorm">Rayan</span></span>
                     </div>
-                    <div class="col-sm-4"><span class="h4">Last Name: <span class="textnorm">Bandara</span></span></div>
+                    <!--changed the required identity-->
+                    <div class="col-sm-4"><span class="h4">Last Name: <span class="textnorm">Fernando</span></span></div>
                     <div class="col-sm-4"><span class="h4">ID No. <span class="textnorm">982587152V</span></span></div>
                 </div>
                 <div class="row mt-2">
@@ -110,7 +111,7 @@
                 </div>
                 <div class="row mt-3 bg-light mx-auto">
                     <div class=" col-sm" style="margin-left:35%"><span class="h2">Balance: <span
-                                class="textnormh2">Rs.5,000.00</span></span>
+                                class="textnormh2">Rs.4,000.00</span></span>
                     </div>
                 </div>
                 <div class="mx-auto me-5 mt-5">
